@@ -11,9 +11,9 @@ Note: Make all the files executable using the command
 * clearRoot
 * deleteOldSnaps
 
-Make sure to create bash aliases for the pseudo commands. Refer to the [link] (https://linuxize.com/post/how-to-create-bash-aliases/) for details on how to create bash aliases.
+Make sure to create bash aliases for the pseudo commands. Refer to the [link](https://linuxize.com/post/how-to-create-bash-aliases/) for details on how to create bash aliases.
 
 ## Startup scripts
 * batteryFull.sh
 
-Make sure to add the script to the list of startup programs. Refer to the [link] (https://www.baeldung.com/linux/run-script-on-startup) for details on how to run a script on startup in Linux.
+Make sure to add the script to the list of startup programs. Refer to the [link](https://www.baeldung.com/linux/run-script-on-startup) for details on how to run a script on startup in Linux.
